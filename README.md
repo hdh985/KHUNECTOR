@@ -5,7 +5,7 @@
 
 ## 사용 기술
 HTML | CSS | JavaScript |
-Python | Django 
+Python | Django | Redis 
 
 
 
