@@ -4,7 +4,7 @@
 
 
 ## 사용 기술
-HTML | CSS | JavaScript 
+HTML | CSS | JavaScript |
 Python | Django 
 
 
