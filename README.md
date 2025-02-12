@@ -8,5 +8,4 @@ HTML | CSS | JavaScript |
 Python | Django 
 
 
-## 웹 개발팀 소개
 
